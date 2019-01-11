@@ -2,13 +2,11 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping ext="vue" type="HTML" />
       <mapping pattern="TasksTableSeeder" type="PHP" />
       <mapping pattern="ParticipateInThreadsTest" type="PHP" />
       <mapping pattern="TaskRepository" type="PHP" />
       <mapping pattern="Controller" type="PHP" />
       <mapping pattern="ParticipateInThreadsTest.php" type="PLAIN_TEXT" />
-      <removed_mapping ext="vue" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
