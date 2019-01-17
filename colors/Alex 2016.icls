@@ -1,7 +1,7 @@
 <scheme name="Alex 2016" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.75" />
+  <option name="FONT_SCALE" value="1.5" />
   <option name="LINE_SPACING" value="1.5" />
-  <option name="EDITOR_FONT_SIZE" value="28" />
+  <option name="EDITOR_FONT_SIZE" value="24" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
@@ -49,7 +49,12 @@
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="82297e" />
+        <option name="FOREGROUND" value="b965db" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="49b0fd" />
       </value>
     </option>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -1084,6 +1089,11 @@
         <option name="FOREGROUND" value="a0a0a3" />
       </value>
     </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="3fb3ea" />
+      </value>
+    </option>
     <option name="SASS_COMMENT">
       <value>
         <option name="FOREGROUND" value="bc9455" />
@@ -1178,6 +1188,11 @@
     <option name="SQL_SYNTHETIC_ENTITY">
       <value>
         <option name="FOREGROUND" value="ffc66d" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="3fa9e9" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR2">
